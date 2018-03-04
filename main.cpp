@@ -15,6 +15,6 @@ int main () {
 }
 
 
-int omar() {
-	cout << "testing" << endl;
+void omar() {
+	cout << "isidro" << endl;
 }
