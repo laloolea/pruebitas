@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-
+int lalo ();
 int main () {
 
     cout <<"Hola mundo"<<endl;
@@ -9,12 +9,13 @@ int main () {
     cout <<"Hola locos"<<endl;
 
     cout <<"cambios archivos branch lalo"<<endl;
+
+
     system("pause");
     return 0;
 
 }
 
-
-void omar() {
-	cout << "isidro" << endl;
+int lalo (){
+  cout<<"hello plebes";
 }
