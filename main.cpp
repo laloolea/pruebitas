@@ -15,6 +15,7 @@ int main () {
 }
 
 
-void omar() {
+bool omar() {
 	cout << "isidro" << endl;
+	return false;
 }
