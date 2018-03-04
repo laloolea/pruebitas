@@ -15,7 +15,14 @@ int main () {
 }
 
 
+
 bool omar() {
+	cout << "Dante" << endl;
 	cout << "isidro" << endl;
-	return false;
+	return true;
+}
+
+
+int mariana() {
+	return 4;
 }
