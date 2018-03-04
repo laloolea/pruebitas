@@ -11,3 +11,8 @@ int main () {
     return 0;
 
 }
+
+
+int omar() {
+	cout << "testing" << endl;
+}
