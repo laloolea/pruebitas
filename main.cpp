@@ -18,4 +18,15 @@ int main () {
 
 int lalo (){
   cout<<"hello plebes";
+
+
+bool omar() {
+	cout << "Dante" << endl;
+	cout << "isidro" << endl;
+	return true;
+}
+
+
+int mariana() {
+	return 4;
 }
